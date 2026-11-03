@@ -49,7 +49,7 @@
 .hud-finger-map div.active strong{color:#fff;text-shadow:0 0 9px #00f5f5}
 @media(max-width:700px){.hud-finger-map{bottom:14%;width:94vw;max-width:94vw;grid-template-columns:repeat(5,1fr);gap:4px}.hud-finger-map div{padding:3px}.hud-finger-map small{font-size:6px}.hud-finger-map strong{font-size:10px}}
 
-/* Gesture Piano 2.0 expressive-performance HUD additions */
+/* Gesture Music 2.0 expressive-performance HUD additions */
 .hud-chord{position:absolute;right:2%;bottom:23%;z-index:9;display:flex;flex-direction:column;align-items:flex-end;gap:5px;text-align:right;max-width:min(42vw,420px)}
 .hud-chord span{font-size:9px;color:rgba(0,255,255,.68);letter-spacing:2px}
 .hud-chord strong{font:700 clamp(18px,2.4vw,29px) 'Manrope',sans-serif;color:#fff;text-shadow:0 0 13px rgba(0,255,255,.8);letter-spacing:1px}
@@ -66,7 +66,7 @@
  .hud-energy{min-width:130px}
 }
 
-/* Gesture Piano 2.1 — independent instrument routing per hand */
+/* Gesture Music 2.1 — independent instrument routing per hand */
 .hud-top-left{min-width:190px;max-width:245px}
 .hud-hand-select{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-top:6px;padding:4px 6px;border:1px solid rgba(0,255,255,.24);background:rgba(0,15,20,.68);backdrop-filter:blur(5px);border-radius:4px}
 .hud-hand-select span{font:8px 'DM Mono',monospace;letter-spacing:1px;color:rgba(0,255,255,.72);white-space:nowrap}

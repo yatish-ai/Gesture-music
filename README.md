@@ -1,8 +1,8 @@
-# Gesture Piano 2.0
+# Gesture Music 2.0
 
-Gesture Piano is a browser-based computer-vision musical instrument. It uses a webcam and MediaPipe hand landmarks to play notes with up to ten fingers, with expressive velocity estimation, six General MIDI instruments, and chord recognition.
+Gesture Music is a browser-based computer-vision musical instrument. It uses a webcam and MediaPipe hand landmarks to play notes with up to ten fingers, with expressive velocity estimation, six General MIDI instruments, and chord recognition.
 
-## Gesture Piano 2.0 upgrades
+## Gesture Music 2.0 upgrades
 
 ### 1. Expressive velocity estimation
 - Tracks fingertip motion over time for each finger independently.
@@ -140,7 +140,7 @@ Present the project as:
 The velocity estimator uses normalized landmark displacement divided by elapsed time. Chord recognition compares pitch-class sets with interval templates; sorting the MIDI notes also allows inversion information to be inferred from the bass note.
 
 
-## Gesture Piano 2.1 — Independent instruments per hand
+## Gesture Music 2.1 — Independent instruments per hand
 
 The left and right hands now have independent instrument routing. Choose an instrument for each hand separately from the two selectors in the fullscreen HUD or from Studio Settings. The instrument selected for a hand is used for every note triggered by that hand; the other hand continues using its own selection. Both selections can be changed while the session is running. The active-note panel identifies the instrument associated with the most recently active note.
 

@@ -1,6 +1,6 @@
-# Gesture Piano — Ten-Finger Update
+# Gesture Music — Ten-Finger Update
 
-This update expands Gesture Piano from a small set of hand poses to **ten independent finger controls** using both hands.
+This update expands Gesture Music from a small set of hand poses to **ten independent finger controls** using both hands.
 
 ## Default note map
 
@@ -21,7 +21,7 @@ Raise a finger to start its note; fold it to release that note. You can raise se
 
 ## How hand assignment works
 
-The live camera preview is mirrored for a natural selfie view. Gesture Piano uses each detected wrist's mirrored screen position to decide whether it is the visible left or right hand. Keep your left hand on the left half of the screen and your right hand on the right half for the default mapping.
+The live camera preview is mirrored for a natural selfie view. Gesture Music uses each detected wrist's mirrored screen position to decide whether it is the visible left or right hand. Keep your left hand on the left half of the screen and your right hand on the right half for the default mapping.
 
 ## Run
 
