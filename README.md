@@ -145,3 +145,4 @@ The velocity estimator uses normalized landmark displacement divided by elapsed 
 The left and right hands now have independent instrument routing. Choose an instrument for each hand separately from the two selectors in the fullscreen HUD or from Studio Settings. The instrument selected for a hand is used for every note triggered by that hand; the other hand continues using its own selection. Both selections can be changed while the session is running. The active-note panel identifies the instrument associated with the most recently active note.
 
 Default: Grand Piano on both hands. Supported choices for each hand: Grand Piano, Electric Piano, Acoustic Guitar, Violin, Flute and Synthesizer.
+ 
